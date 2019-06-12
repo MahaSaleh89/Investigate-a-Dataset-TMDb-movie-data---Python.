@@ -1,6 +1,6 @@
 # Investigate-a-Dataset-TMDb-movie-data---Python.
 ### Project Overview
-In this project, we are asked to analyze a dataset and then communicate findings about it. Python libraries are used such as NumPy, pandas, and Matplotlib to make your analysis easier.
+In this project, we are asked to analyze a dataset and then communicate findings about it. Python libraries are used such as NumPy, pandas, and Matplotlib to make the analysis easier.
 
 ### What did I need to install?
 Python, plus the following libraries:
